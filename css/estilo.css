@@ -8,10 +8,12 @@
 .txt1 {  
     margin-left: 10px;
 }
-.logo {
-    width: ; 
-    margin-top: ;
+.logo { 
+    width: 35px;
+    margin-top: 3px;
+    
+}
+.txt2 { 
+    margin-left: ;
     position: absolute;
-.txt2 {
-    margin-left:  ;
 }
